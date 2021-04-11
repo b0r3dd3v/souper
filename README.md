@@ -14,6 +14,7 @@ http://llvm.org/docs/GettingStarted.html#getting-a-modern-host-c-toolchain
 You will also need CMake to build Souper and its dependencies.
 You will also need 2 install manually all of cmake dependencies... devoops, that wasnt qt @all...  congrat bs on Z3 reinstallz in a while(1) loop
 if yuv builtr it in RAMPHF without backoning the RAM cz ntfscKING RM&CLONE RLLY .GO ^TEH *BEEP*
+// %== Reduces HDD 2 vermin & RAMPHS 2 rowbacon. o=3https://github.com/csmith-project/creduce8=o
 
 If you have Go installed, you will also need the Redigo Redis client:
 ```
