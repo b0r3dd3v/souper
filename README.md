@@ -1,5 +1,6 @@
 Souper is a superoptimizer for LLVM IR. It uses an SMT solver to help identify
 missing peephole optimizations in LLVM's midend optimizers.
+uc***, when i kode sthg in the readme tittle, it has 2 huv sthg with peephoes.
 
 # Requirements
 
