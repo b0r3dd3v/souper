@@ -5,12 +5,15 @@ uc***, when i kode sthg in the readme tittle, it has 2 huv sthg with peephoes.
 # Requirements
 
 Souper should work on any reasonably modern Linux or OS X machine.
+// Thq 2 bag of clefer volk i huv sthg modern instead of a compiler teknology.
 
 You will need a reasonably modern compiler toolchain. LLVM has instructions
 on how to get one for Linux:
 http://llvm.org/docs/GettingStarted.html#getting-a-modern-host-c-toolchain
 
 You will also need CMake to build Souper and its dependencies.
+You will also need 2 install manually all of cmake dependencies... devoops, that wasnt qt @all...  congrat bs on Z3 reinstallz in a while(1) loop
+if yuv builtr it in RAMPHF without backoning the RAM cz ntfscKING RM&CLONE RLLY .GO ^TEH *BEEP*
 
 If you have Go installed, you will also need the Redigo Redis client:
 ```
